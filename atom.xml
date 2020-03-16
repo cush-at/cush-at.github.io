@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>CushAt</title>
+  <title>Cushat</title>
   
   <subtitle>For share...</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://cush.at/"/>
   <updated>2020-03-16T06:03:21.209Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://cush.at/</id>
   
   <author>
-    <name>CushAt</name>
+    <name>Cushat</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/16/hello-world/"/>
-    <id>http://yoursite.com/2020/03/16/hello-world/</id>
+    <link href="http://cush.at/2020/03/16/hello-world/"/>
+    <id>http://cush.at/2020/03/16/hello-world/</id>
     <published>2020-03-16T06:03:21.206Z</published>
     <updated>2020-03-16T06:03:21.209Z</updated>
     
