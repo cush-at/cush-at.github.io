@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cushat</title>
+  
+  <subtitle>For share...</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://cush.at/"/>
+  <updated>2020-03-17T10:26:50.319Z</updated>
+  <id>http://cush.at/</id>
+  
+  <author>
+    <name>Cushat</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First blog</title>
+    <link href="http://cush.at/2020/03/17/First-blog/"/>
+    <id>http://cush.at/2020/03/17/First-blog/</id>
+    <published>2020-03-17T10:26:07.000Z</published>
+    <updated>2020-03-17T10:26:50.319Z</updated>
+    
+    <content type="html"><![CDATA[<p>�µĿ�ʼ</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;�µĿ�ʼ&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
